@@ -30,5 +30,5 @@ It demonstrates how classical cryptographic algorithms (RSA, ECC, AES, SHA-256) 
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/quantumsafe.git
+   git clone https://github.com/dronabopche/qusafe.git
    cd quantumsafe
